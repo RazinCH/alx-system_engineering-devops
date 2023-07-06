@@ -1,2 +1,2 @@
 #!/bin/bash
-cat starwars
+telnet towel.blinkenlights.nl
